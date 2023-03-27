@@ -3,7 +3,7 @@
   
 <h3>Team Members:<br /></h3>
 <Pre>
-Ornella Irene Dsouza        (885188318 - ). <br />
+Ornella Irene Dsouza        (885188318 - Ornella22@csu.fullerton.edu). <br />
 Pradhatri Vemula            (885211540 - pradhatrivemula@csu.fullerton.edu). <br />
 Manasa Lakshmi Pothakamuru  (885214536 - manasapothakamuru@csu.fullerton.eu). <br />
 Pavan Kumar Mathari         (885186924 - pavan.mathari@csu.fullerton.edu). <br /> </pre>
