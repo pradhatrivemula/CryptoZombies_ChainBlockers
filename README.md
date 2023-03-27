@@ -1,5 +1,5 @@
 # CryptoZombies_ChainBlockers. <br />
-CryptoZombies_ChainBlockers. <br />
+Team Name: ChainBlockers. <br />
   
 Team Members:<br />
 Ornella Irene Dsouza        (885188318 - ). <br />
@@ -8,7 +8,7 @@ Manasa Lakshmi Pothakamuru  (885214536 - manasapothakamuru@csu.fullerton.eu). <b
 Pavan Kumar Mathari         (885186924 - pavan.mathari@csu.fullerton.edu). <br />
    
 
-#Enhancements. <br />
+<h1>Enhancements. <br />
 -> Deployed Dapp to Goerli testnet. <br />
 -> Built a nicer Website. <br />
 -> Provided users with Zombie Gallery. <br />
