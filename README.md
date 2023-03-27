@@ -2,10 +2,10 @@
 <h2>Team Name: ChainBlockers. <br /></h2>
   
 <h3>Team Members:<br /></h3>
-Ornella Irene Dsouza        (885188318 - ). <br />
+<Pre>Ornella Irene Dsouza        (885188318 - ). <br />
 Pradhatri Vemula            (885211540 - pradhatrivemula@csu.fullerton.edu). <br />
 Manasa Lakshmi Pothakamuru  (885214536 - manasapothakamuru@csu.fullerton.eu). <br />
-Pavan Kumar Mathari         (885186924 - pavan.mathari@csu.fullerton.edu). <br />
+Pavan Kumar Mathari         (885186924 - pavan.mathari@csu.fullerton.edu). <br /> </pre>
    
 
 <h3>Enhancements. <br /> </h3>
