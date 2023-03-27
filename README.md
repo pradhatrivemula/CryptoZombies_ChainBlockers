@@ -1,16 +1,17 @@
-# CryptoZombies_ChainBlockers. 
-CryptoZombies_ChainBlockers. 
+# CryptoZombies_ChainBlockers. <br />
+CryptoZombies_ChainBlockers. <br />
   
-Team Members:
-Ornella Irene Dsouza        (885188318 - ). 
-Pradhatri Vemula            (885211540 - pradhatrivemula@csu.fullerton.edu). 
-Manasa Lakshmi Pothakamuru  (885214536 - manasapothakamuru@csu.fullerton.eu). 
-Pavan Kumar Mathari         (885186924 - pavan.mathari@csu.fullerton.edu). 
+Team Members:<br />
+Ornella Irene Dsouza        (885188318 - ). <br />
+Pradhatri Vemula            (885211540 - pradhatrivemula@csu.fullerton.edu). <br />
+Manasa Lakshmi Pothakamuru  (885214536 - manasapothakamuru@csu.fullerton.eu). <br />
+Pavan Kumar Mathari         (885186924 - pavan.mathari@csu.fullerton.edu). <br />
    
 
-#Enhancements. 
--> Deployed Dapp to Goerli testnet. 
--> Built a nicer Website. 
--> Provided users with Zombie Gallery. 
--> Removed hardcode<cryptoZombieAddress>. 
--> Randomized zombie images on each level up. 
+#Enhancements. <br />
+-> Deployed Dapp to Goerli testnet. <br />
+-> Built a nicer Website. <br />
+-> Provided users with Zombie Gallery. <br />
+-> Removed hardcode<cryptoZombieAddress>. <br />
+-> Randomized zombie images on each level up. <br />
+<br />
